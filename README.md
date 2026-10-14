@@ -1,5 +1,7 @@
 # CS211-apple
 
+[Member 1 Profile](./cmarr8.md)
+
 # Profile: [Nisarg Kansagra]
 - **NetID:** [nkansa3]
  **Major:** [Computer Science]- 
